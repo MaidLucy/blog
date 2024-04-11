@@ -12,7 +12,7 @@ layout: home
 <p style="max-width: 18rem; flex-shrink: 1" class="speech-bubble">
 Hewwo! 
 My Name is Lucy. 
-I like transportation, networking and Linux! Sometimes I also <a href="https://twitch.tv/maidlucy">stream on Twitch</a>. <br>
+I like transportation, networking and Linux!<br>
 Enjoy your stay. Nya~ 💕<br>
 Down there is a list of all the posts.
 </p>
