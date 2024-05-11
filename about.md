@@ -5,7 +5,7 @@ permalink: /about
 ...
 
 This site is generated using [Jekyll](https://jekyllrb.com/). 
-It is hosted on my Hetzner VPS (Virtual Private Server).
+It is hosted on Hetzner via nginx running on a VPS.
 There is a [GitHub repository](https://github.com/MaidLucy/blog) with all the content and Jekyll config.
 All of the posts are written in markdown.
 Feel free to submit merge requests if you find any spelling mistakes or have any ideas to make this look better!
@@ -31,6 +31,7 @@ You can find me on these platforms:
 | Throne Wishlist | [MaidLucy](https://throne.com/maidlucy) |
 | Twitch     | [MaidLucy](https://twitch.tv/maidlucy)            |
 | YouTube    | [MaidLucy](https://www.youtube.com/maidlucy)      |
+| anilist.co | [MaidLucy](https://anilist.co/user/MaidLucy)      |
 
 ## Contact
 
@@ -38,7 +39,6 @@ If you would like to reach out to me, you can also find me here:
 
 | E-Mail     | [{{ site.author.email }}](mailto:{{ site.author.email }})               |
 | Discord    | @maidlucy |
-| anilist.co | [MaidLucy](https://anilist.co/user/MaidLucy)      |
 
 <div class="sensitive">
     <div id="center"><button class="spoiler-show">It's a very bad idea to klick this.</button></div>
