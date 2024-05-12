@@ -15,12 +15,12 @@ And let's say I really enjoyed wearing that!
 
 The desire to try living as a girl was always present though.
 I always knew I had a female side and that I want to express it.
-The though of becoming a girl always seemed faint though, as I was certain it would be impossible.
+The thought of becoming a girl always seemed faint though, as I was certain it would be impossible.
 
 I also was always a weird kid.
-I always got long better with girls of my age.
+I always got along better with girls of my age.
 I even had some really sweet friendships in elementary school days.
-That was until being friends with girls was "ewwww" and everyone started hating girls.
+That was until being friends with girls became "ewwww" and everyone started hating girls.
 I felt so disconnected to the world around me and I remember giving up friendships
 because male friends started shipping me with them and I couldn't handle that.
 
@@ -44,14 +44,15 @@ Anyways.
 Everything about this day felt so rewarding, so real, so colorful, so reviving,
 that I also started rethinking what I wanted to label myself as.
 
-I came to the conclusion that my female and male sides can best be described by telling people that I was a femboy.
+I came to the conclusion that my female and male sides can best be described
+by telling people that I was a femboy.
 This label got carried along for many years.
 But it never felt like this was describing the situation accurately enough.
 
 Up to this point, I had already cleared out most of my closet of male clothes.
 Most of these got replaced with very gender-neutral clothing, mostly from the womans-section though.
 I found skinny jeans together with a T-shirt or hoodie to be the most comfortable for me.
-When it gets warmer, I also switch to hot pants.
+When it gets warmer, I also switch to shorts and hot pants.
 
 Throughout 2022 and 2023 I started feeling even more girlish.
 I could really express myself properly that way.
@@ -60,7 +61,8 @@ And that was during very dark times at the beginning of 2022.
 
 There also was a relationship in 2023 and the person encouraged me to dress more female.
 To dress more like the way I am.
-The "crossdressing in public" has turned into a regular activity, many times even with makeup.
+The "crossdressing in public" has turned into a regular activity throughout the relationship,
+many times even with makeup.
 I felt so accepted and so safe with that person that it really made myself come through.
 
 ## Genderfluid
@@ -73,7 +75,7 @@ and that I can manipulate however it suits me best was very empowering for my se
 This also ment that I could deal with any situation that required my male persona in an easy way.
 I would just "switch" to male mode and try to present as male as possible.
 With mixed results.
-It was my way of coping with body dysphoria until I better understood what I was feeling.
+It was a way of coping with body dysphoria until I better understood what I was feeling.
 
 ## Static
 
@@ -84,7 +86,7 @@ called me a girl in front of her friends,<br>
 treated me like a girl<br>
 and exclusively used my female name.
 
-I held an entire talk presenting female, using a female name, being refered to as she her in the moderation.
+I held an entire talk presenting female, using a female name, being refered to as she/her in the moderation.
 And it felt right!
 
 **And I still did not get it?!**
@@ -107,11 +109,11 @@ Always being more of a feelings-avoidant type, I have learnt to take my feeling 
 and I can now even handle feelings that would have made me explode from a fear of loss just over a year ago.
 
 I have lost a parent when I was a teenager.<br>
-I have trust in another parent a couple of years ago.<br>
+I have lost trust in the other parent a couple of years ago.<br>
 Both of these things have been beyond my ability to handle.
 I managed to get over these traumatic experiences with help and manage to live with them every day.
 
-And yet these feelings of gender dysphoria completely wreck me every day.
+And yet, these feelings of gender dysphoria completely wreck me every day.
 Any social situation, any day to day activity, any part of my existence is filled with this constant thought of being in the wrong body.
 Every day I wake up and consider the cost of confronting myself with body dysphoria before I manage to get up and start my day.<br>
 On some days I loose.
@@ -128,9 +130,11 @@ Ever time one of my friends uses the name "Lucy" to get my attention or refers t
 I burst out into a bright smile internally.
 It makes me feel so validated, so incredibly happy, so like I am myself.
 
-And that is even before I even consider the positive effects of a hormone theraphy.
+And that is before I even consider the positive effects of hormone theraphy.
 
-Every day I desire changes to my body that would make the days where I can't even look at myself in the mirror just a bit easier.
+Every day I desire changes to my body that would make the days
+where I can't even look at myself in the mirror
+just a bit easier.
 At least I now know what to do against a feeling of numbness that has been created by repressed feelings (of body dysphoria).
 Every day I curse the effects that my first puberty had.
 My first puberty was also the first time I started noticing that something was off.
@@ -138,7 +142,7 @@ My first puberty was also the first time I started noticing that something was o
 ## How did I find out?
 
 Well I met a certain [Anna](https://fef.moe) some time ago who said just one simple thing after I told her about my gender identity:
-"I feel like all of what you just told me boils down to that you are just scared"
+"I feel like all of what you just told me boils down to that you are just scared."
 
 Oh she was so right.
 This single sentence started a chain reaction of self-discovery and "oh fuck"-realizations
