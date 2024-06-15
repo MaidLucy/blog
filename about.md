@@ -25,7 +25,7 @@ Oh and I reaaaally like cat girls! Nya~ 💕
 You can find me on these platforms:
 
 | Github     | [MaidLucy](https://github.com/maidlucy)           |
-| Mastodon   | <a rel="me" href="https://gervtuber.de/@maidlucy">@maidlucy@gervtuber.de</a> |
+| Mastodon   | <a rel="me" href="https://tech.lgbt/@maidlucy">@maidlucy@tech.lgbt</a> |
 | Blue Sky   | <a href="https://bsky.app/profile/maidlucyvt.bsky.social">@maidlucyvt.bsky.social</a> |
 | Twitter    | <a href="https://twitter.com/maidlucyvt">@MaidLucyVT</a> |
 | Throne Wishlist | [MaidLucy](https://throne.com/maidlucy) |
