@@ -25,7 +25,7 @@ Oh and I reaaaally like cat girls! Nya~ 💕
 You can find me on these platforms:
 
 | Github     | [MaidLucy](https://github.com/maidlucy)           |
-| Mastodon   | <a rel="me" href="https://tech.lgbt/@maidlucy">@maidlucy@tech.lgbt</a> |
+| Mastodon   | <a rel="me" href="https://chaos.social/@maid">@maid@chaos.social</a> |
 | Blue Sky   | <a href="https://bsky.app/profile/maidlucyvt.bsky.social">@maidlucyvt.bsky.social</a> |
 | Twitter    | <a href="https://twitter.com/maidlucyvt">@MaidLucyVT</a> |
 | Throne Wishlist | [MaidLucy](https://throne.com/maidlucy) |
@@ -45,7 +45,7 @@ If you would like to reach out to me, you can also find me here:
     <div class="sensitive-hidden">
         <h2 id="{{ "nsfw" | slugify: "latin" }}">NSFW</h2>
         <p>Only look at this if you can handle unhinged horny.</p>
-        <table><tbody><tr> <td>Mastodon alt</td> <td> <a rel="me" href="https://girldick.gay/@lucy">@lucy@girldick.gay</a> </td> </tr></tbody></table>
+        <table><tbody><tr> <td>Mastodon alt</td> <td> <a rel="me" href="https://florp.social/lucy">@lucy@florp.social</a> </td> </tr></tbody></table>
     </div>
 </div>
 
