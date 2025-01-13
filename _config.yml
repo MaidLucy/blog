@@ -69,7 +69,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: "https://lucy.moe/f/maidlucy/pb-greeting-lucy.jpg"
+      image: "https://lucy.moe/f/maidlucy/jezzychii-postcard_pb.webp"
 locale: de_DE
 twitter:
   username: maidlucyvt
