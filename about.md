@@ -44,10 +44,16 @@ If you would like to reach out to me, you can also find me here:
     <div id="center"><button class="spoiler-show">It's a very bad idea to klick this.</button></div>
     <div class="sensitive-hidden">
         <h2 id="{{ "nsfw" | slugify: "latin" }}">NSFW</h2>
-        <p>Only look at this if you can handle unhinged horny.</p>
+        <p>Only look at this if you can handle unhinged mental health postings.</p>
         <table><tbody><tr> <td>Mastodon alt</td> <td> <a rel="me" href="https://florp.social/lucy">@lucy@florp.social</a> </td> </tr></tbody></table>
     </div>
 </div>
+
+# GPG Public Key Fingerprint
+
+```
+0F30678729ADB1B1315DD2C4EF5912B239F9B9C9
+```
 
 # Privacy Policy
 
