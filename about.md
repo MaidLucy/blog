@@ -38,6 +38,7 @@ You can find me on these platforms:
 If you would like to reach out to me, you can also find me here:
 
 | E-Mail     | [{{ site.author.email }}](mailto:{{ site.author.email }})               |
+| Matrix     | @maid:matrix.binary-kitchen.de               |
 | Discord    | @maidlucy |
 
 <div class="sensitive">
