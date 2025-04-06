@@ -24,10 +24,10 @@ Oh and I reaaaally like cat girls! Nya~ 💕
 
 You can find me on these platforms:
 
-| Github     | [MaidLucy](https://github.com/maidlucy)           |
+| Codeberg   | [MaidLucy](https://codeberg.org/MaidLucy)         |
 | Mastodon   | <a rel="me" href="https://chaos.social/@maid">@maid@chaos.social</a> |
+| Github     | [MaidLucy](https://github.com/maidlucy)           |
 | Blue Sky   | <a href="https://bsky.app/profile/maidlucyvt.bsky.social">@maidlucyvt.bsky.social</a> |
-| Twitter    | <a href="https://twitter.com/maidlucyvt">@MaidLucyVT</a> |
 | Throne Wishlist | [MaidLucy](https://throne.com/maidlucy) |
 | Twitch     | [MaidLucy](https://twitch.tv/maidlucy)            |
 | YouTube    | [MaidLucy](https://www.youtube.com/maidlucy)      |
